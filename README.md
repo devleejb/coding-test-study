@@ -10,6 +10,6 @@
 ### 3장 그리디 알고리즘
 
 1. [그리디 알고리즘이란?](https://distinct-bulb-c95.notion.site/3-afb606ff1f9a422ea33e4c36bb88bcbc)
-2. [문제 - 1이 될 때까지](https://distinct-bulb-c95.notion.site/1-01debe4722fe4e6a9ef407311395336d) / [소스 코드](/coding-test-study/3-greedy/until_1.cpp)
-3. [문제 - 곱하기 혹은 더하기](https://distinct-bulb-c95.notion.site/98fa27afe0844b8a91690d0975268183) / [소스 코드](3-greedy/multiple_or_add.cpp)
-4. [문제 - 모험가 길드](https://distinct-bulb-c95.notion.site/850bc603b79e4239b5b12a357c376072) / [소스 코드](/coding-test-study/3-greedy/adventurer_guild.cpp)
+2. [문제 - 1이 될 때까지](https://distinct-bulb-c95.notion.site/1-01debe4722fe4e6a9ef407311395336d) / [소스 코드](/3-greedy/until_1.cpp)
+3. [문제 - 곱하기 혹은 더하기](https://distinct-bulb-c95.notion.site/98fa27afe0844b8a91690d0975268183) / [소스 코드](/3-greedy/multiple_or_add.cpp)
+4. [문제 - 모험가 길드](https://distinct-bulb-c95.notion.site/850bc603b79e4239b5b12a357c376072) / [소스 코드](/3-greedy/adventurer_guild.cpp)
