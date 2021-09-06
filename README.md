@@ -4,6 +4,7 @@
 
 [이것이 코딩 테스트다 2021 강의 몰아보기](https://youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
+<br/>
 
 ## Contents  
 
@@ -13,3 +14,8 @@
 2. [문제 - 1이 될 때까지](https://distinct-bulb-c95.notion.site/1-01debe4722fe4e6a9ef407311395336d) / [소스 코드](/3-greedy/until_1.cpp)
 3. [문제 - 곱하기 혹은 더하기](https://distinct-bulb-c95.notion.site/98fa27afe0844b8a91690d0975268183) / [소스 코드](/3-greedy/multiple_or_add.cpp)
 4. [문제 - 모험가 길드](https://distinct-bulb-c95.notion.site/850bc603b79e4239b5b12a357c376072) / [소스 코드](/3-greedy/adventurer_guild.cpp)
+
+### 4장 구현(Implementation)
+
+1. [구현(Implementation)이란?](https://distinct-bulb-c95.notion.site/4-Implementation-957964c8dbe240738414eb93e94c4c90)
+2. [문제 - 시각](https://distinct-bulb-c95.notion.site/c6d29eb9ea034516999e4deea91a6b00) / [소스 코드](4-implementation/time.cpp)
