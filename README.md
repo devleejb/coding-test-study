@@ -21,3 +21,8 @@
 2. [문제 - 시각](https://distinct-bulb-c95.notion.site/c6d29eb9ea034516999e4deea91a6b00) / [소스 코드](4-implementation/time.cpp)
 3. [문제 - 왕실의 나이트](https://distinct-bulb-c95.notion.site/3920ad456e844623b1b301f8dd01b359) / [소스 코드](4-implementation/knight.cpp)
 4. [문제 - 문자열 재정렬](https://distinct-bulb-c95.notion.site/f25f5a1b30fe45efbb1e7adf04037843) / [소스 코드](4-implementation/string_sort.cpp)
+
+### 5장 DFS/BFS
+
+1. [DFS/BFS란?](https://distinct-bulb-c95.notion.site/5-DFS-BFS-bb058bbc5c3f49fbb72f2a5919f7d6be)
+2. [문제 - 음료수 얼려 먹기](https://distinct-bulb-c95.notion.site/1b0a7c70c79642189ed9a419dd313b94) / [소스 코드](5-dfs_bfs/ice_juice.cpp)
