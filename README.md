@@ -27,3 +27,8 @@
 1. [DFS/BFS란?](https://distinct-bulb-c95.notion.site/5-DFS-BFS-bb058bbc5c3f49fbb72f2a5919f7d6be)
 2. [문제 - 음료수 얼려 먹기](https://distinct-bulb-c95.notion.site/1b0a7c70c79642189ed9a419dd313b94) / [소스 코드](5-dfs_bfs/ice_juice.cpp)
 3. [문제 - 미로 탈출](https://distinct-bulb-c95.notion.site/dde9fd024c6c41d89ec591aacd126dc0) / [소스 코드](5-dfs_bfs/maze.cpp)
+
+### 6장 정렬 알고리즘
+
+1. [정렬 알고리즘](https://distinct-bulb-c95.notion.site/6-52ee44cf18af461ebadaee90471a336e)
+2. [문제 - 두 배열의 원소 교채](https://distinct-bulb-c95.notion.site/7748ca7a1be24a69b6f869a249d21942) / [소스 코드](6-sort/replacement.cpp)
