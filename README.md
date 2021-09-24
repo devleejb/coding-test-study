@@ -37,3 +37,4 @@
 
 1. [이진 탐색 알고리즘](https://distinct-bulb-c95.notion.site/7-bb4049fbad8745dcab43686d4dde9d32)
 2. [문제 - 떡볶이 떡 만들기](https://distinct-bulb-c95.notion.site/940b7a3393b64588836a9e95afa41032)
+3. [문제 - 정렬된 배열에서 특정 수의 갯수 구하기](https://distinct-bulb-c95.notion.site/94fd77204f544291b11660d53bd9bcf1)
