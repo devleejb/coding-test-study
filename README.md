@@ -32,3 +32,8 @@
 
 1. [정렬 알고리즘](https://distinct-bulb-c95.notion.site/6-52ee44cf18af461ebadaee90471a336e)
 2. [문제 - 두 배열의 원소 교채](https://distinct-bulb-c95.notion.site/7748ca7a1be24a69b6f869a249d21942) / [소스 코드](6-sort/replacement.cpp)
+
+### 7장 이진 탐색
+
+1. [이진 탐색 알고리즘](https://distinct-bulb-c95.notion.site/7-bb4049fbad8745dcab43686d4dde9d32)
+2. [문제 - 떡볶이 떡 만들기](https://distinct-bulb-c95.notion.site/940b7a3393b64588836a9e95afa41032)
