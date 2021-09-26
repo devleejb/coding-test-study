@@ -42,4 +42,5 @@
 ### 8장 다이나믹 프로그래밍
 
 1. [다이나믹 프로그래밍](https://distinct-bulb-c95.notion.site/8-9eaa8505ee344dea8a6d7452c76d8eef)
-2. [문제 - 개미 전사](8-dynamic_programming/ant_warrior.cpp)
+2. [문제 - 개미 전사](https://distinct-bulb-c95.notion.site/f2a3057789f246d5bc240f5e10a429c0) / [소스 코드](8-dynamic_programming/ant_warrior.cpp)
+3. [문제 - 1로 만들기](https://distinct-bulb-c95.notion.site/1-81b43e00a98a4b6dad7e271c4a92758e) / [소스 코드](8-dynamic_programming/make_one.cpp)
