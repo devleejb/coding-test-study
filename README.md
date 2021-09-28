@@ -45,3 +45,4 @@
 2. [문제 - 개미 전사](https://distinct-bulb-c95.notion.site/f2a3057789f246d5bc240f5e10a429c0) / [소스 코드](8-dynamic_programming/ant_warrior.cpp)
 3. [문제 - 1로 만들기](https://distinct-bulb-c95.notion.site/1-81b43e00a98a4b6dad7e271c4a92758e) / [소스 코드](8-dynamic_programming/make_one.cpp)
 4. [문제 - 효율적인 화폐 구성](https://distinct-bulb-c95.notion.site/e7f3a84a976c49edad9c4da8b549e749) / [소스 코드](8-dynamic_programming/make_bill.cpp)
+5. [문제 - 금광](https://distinct-bulb-c95.notion.site/bbb1423243ad40aaa5e81caad240813f) / [소스 코드](8-dynamic_programming/get_gold.cpp)
