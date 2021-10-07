@@ -47,3 +47,8 @@
 4. [문제 - 효율적인 화폐 구성](https://distinct-bulb-c95.notion.site/e7f3a84a976c49edad9c4da8b549e749) / [소스 코드](8-dynamic_programming/make_bill.cpp)
 5. [문제 - 금광](https://distinct-bulb-c95.notion.site/bbb1423243ad40aaa5e81caad240813f) / [소스 코드](8-dynamic_programming/get_gold.cpp)
 6. [문제 - 병사 배치하기](https://distinct-bulb-c95.notion.site/26bdb73a2b1742e7a7d79a66074679e8) / [소스 코드](8-dynamic_programming/put_soldier.cpp)
+
+### 9장  최단 경로 알고리즘
+
+1. [최단 경로 알고리즘](https://distinct-bulb-c95.notion.site/9-b837a6da313d4558b2f8e10f8c9f1c1e)
+2. [문제 - 전보](https://distinct-bulb-c95.notion.site/9771258d2826427895b8127b9ac00aba) / [소스 코드](9-shortest_path_algorithm/telegram.cpp)
