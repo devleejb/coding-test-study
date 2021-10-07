@@ -52,3 +52,4 @@
 
 1. [최단 경로 알고리즘](https://distinct-bulb-c95.notion.site/9-b837a6da313d4558b2f8e10f8c9f1c1e)
 2. [문제 - 전보](https://distinct-bulb-c95.notion.site/9771258d2826427895b8127b9ac00aba) / [소스 코드](9-shortest_path_algorithm/telegram.cpp)
+3. [문제 - 미래 도시](https://distinct-bulb-c95.notion.site/91fa196c087347a18b8426418377649d) / [소스 코드](9-shortest_path_algorithm/future_city.cpp)
