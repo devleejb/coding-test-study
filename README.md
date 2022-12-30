@@ -57,3 +57,13 @@
 
     ### 10장 기타 그래프 이론
     1. [기타 그래프 이론](https://distinct-bulb-c95.notion.site/10-3d580bfd5292408bb949511ac7a9ea8b)
+
+## Commit Rule
+
+Commit 메시지에 아래의 Type 중 하나를 명시해야 한다.
+
+|Type|Description|
+|----|-----------|
+|summary|코딩 테스트 대비 정리 관련|
+|tct|이것이 코딩 테스트다 2021 강의 관련|
+|docs|`README.md` 파일 관련|
