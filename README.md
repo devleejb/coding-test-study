@@ -8,7 +8,7 @@
 
 - ### [코딩 테스트 대비 정리](https://distinct-bulb-c95.notion.site/654d66e30cd7425b811ff08b3b36bf47)
 
-  - #### [Pythonic 코드 작성하기](summary/)
+  - #### [Pythonic 코드 작성하기](summary/pythonic)
 - ### [이것이 코딩 테스트다 2021 강의 몰아보기](https://youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
     #### 3장 그리디 알고리즘
