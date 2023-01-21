@@ -1,10 +1,13 @@
-from sys import maxsize
+from sys import maxsize, stdin
+import heapq
+
+input = stdin.readline
 
 N = int(input())
 M = int(input())
 dis_list = [maxsize] * (N + 1)
-visited_list = [False] * (N + 1)
 edge_list = [[] for _ in range(N + 1)]
+heap = []
 
 for _ in range(M):
     start, end, cost = map(int, input().split())
@@ -13,33 +16,21 @@ for _ in range(M):
 start, end = map(int, input().split())
 
 
-def get_min_node(node):
-    min_node = -1
-    min_dis = maxsize
-
-    for i in range(1, N + 1):
-        if (not visited_list[i] and min_dis > dis_list[i]):
-            min_node = i
-            min_dis = dis_list[i]
-
-    return min_node
-
-
 def dijkstra():
-    visited_list[start] = True
     dis_list[start] = 0
+    heapq.heappush(heap, (0, start))
 
-    for edge in edge_list[start]:
-        dis_list[edge[0]] = min(edge[1], dis_list[edge[0]])
+    while (heap):
+        cost, now = heapq.heappop(heap)
 
-    now = start
-
-    for _ in range(N - 1):
-        now = get_min_node(now)
-        visited_list[now] = True
+        if (dis_list[now] < cost):
+            continue
 
         for edge in edge_list[now]:
-            dis_list[edge[0]] = min(dis_list[edge[0]], dis_list[now] + edge[1])
+            next_cost = cost + edge[1]
+            if (dis_list[edge[0]] > next_cost):
+                dis_list[edge[0]] = next_cost
+                heapq.heappush(heap, (next_cost, edge[0]))
 
 
 dijkstra()
